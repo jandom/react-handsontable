@@ -22,7 +22,7 @@
  * TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  * 
- * Version: 2.1.0 (built at Wed Mar 06 2019 18:10:28 GMT+0000 (Greenwich Mean Time))
+ * Version: 2.1.0 (built at Thu Mar 07 2019 09:36:41 GMT+0000 (Greenwich Mean Time))
  */
 (function (global, factory) {
 typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('handsontable'), require('react')) :
